@@ -6,8 +6,8 @@ JavaScript Digital Watch is basic Javascript web script.
 Use the script [download](https://github.com/mfurkan60/DigitalWatchV2) to install and use.
 ## Features
 * Added StopWatch 
-
- 
+## Screenshot
+ ![alt text](https://github.com/mfurkan60/DigitalWatchV2/blob/master/screenshot/screenshot.png?raw=true)
 
 ## Used Technologies
 
